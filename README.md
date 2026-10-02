@@ -2,7 +2,7 @@
 
 ## LLM Attacks Labs
 
-_Last synchronized: 2026-10-02 23:58:39_
+_Last synchronized: 2026-10-03 00:02:42_
 
 | Status | Lab |
 |---|---|
